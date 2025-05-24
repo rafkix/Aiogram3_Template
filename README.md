@@ -5,13 +5,21 @@
 ## 📁 Loyiha tuzilmasi
 
 aiogram 3 template/
+
 ├── app/ # Botning handler va routerlari
+
 ├── data/ # Konfiguratsiyalar va statik ma'lumotlar
+
 ├── database/ # Ma'lumotlar bazasi bilan ishlash
+
 ├── middlewares/ # Aiogram middleware'lari
+
 ├── main.py # Bot ishga tushadigan fayl
+
 ├── .env # Muhit o'zgaruvchilari (TOKEN, DB_URL va h.k.)
+
 ├── .venv/ # Virtual muhit (version control'ga qo‘shilmasin)
+
 └── requirements.txt # Kutubxonalar ro‘yxati
 
 
@@ -21,22 +29,21 @@ aiogram 3 template/
    ```bash
    python -m venv .venv
    source .venv/bin/activate        # Windows: .venv\Scripts\activate
-```
+   ```
 2. **Kerakli kutubxonalarni o‘rnatish:**
-
-```bash
-pip install -r requirements.txt
-.env faylini to‘ldirish:
-```
+   ```bash
+   pip install -r requirements.txt
+   .env faylini to‘ldirish:
+   ```
 3. **.env faylini to‘ldirish:**
-```bash
-ADMINS=1234567890
-BOT_TOKEN=1234567890:qwertyuiopasdfghjkl;
-```
+   ```bash
+      ADMINS=1234567890
+      BOT_TOKEN=1234567890:qwertyuiopasdfghjkl;
+   ```
 4. **Botni ishga tushurish:**
-```bash
-python main.py
-```
+   ```bash
+      python main.py
+   ```
 
 ⚙ Xususiyatlar
 ✅ Toza va modulli tuzilma
