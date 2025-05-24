@@ -46,6 +46,7 @@ python main.py
 ```
 
 **⚙ Xususiyatlar**
+
 ✅ Toza va modulli tuzilma
 
 ✅ Aiogram 3'ga to‘liq moslashtirilgan
@@ -57,4 +58,5 @@ python main.py
 ✅ Oson tushunarli va kengaytiriladigan kod bazasi
 
 **📄 Litsenziya**
+
 Ushbu template ochiq manbali. Istalgan maqsad uchun erkin foydalanishingiz mumkin.
