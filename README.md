@@ -26,26 +26,26 @@ aiogram 3 template/
 ## 🚀 Ishga tushirish
 
 1. **Virtual muhit yaratish va faollashtirish:**
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate        # Windows: .venv\Scripts\activate
-   ```
+```bash
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+```
 2. **Kerakli kutubxonalarni o‘rnatish:**
-   ```bash
-   pip install -r requirements.txt
-   .env faylini to‘ldirish:
-   ```
+```bash
+pip install -r requirements.txt
+.env faylini to‘ldirish:
+```
 3. **.env faylini to‘ldirish:**
-   ```bash
-      ADMINS=1234567890
-      BOT_TOKEN=1234567890:qwertyuiopasdfghjkl;
-   ```
+```bash
+ADMINS=1234567890
+BOT_TOKEN=1234567890:qwertyuiopasdfghjkl;
+```
 4. **Botni ishga tushurish:**
-   ```bash
-      python main.py
-   ```
+```bash
+python main.py
+```
 
-⚙ Xususiyatlar
+**⚙ Xususiyatlar**
 ✅ Toza va modulli tuzilma
 
 ✅ Aiogram 3'ga to‘liq moslashtirilgan
@@ -56,5 +56,5 @@ aiogram 3 template/
 
 ✅ Oson tushunarli va kengaytiriladigan kod bazasi
 
-📄 Litsenziya
-Ushbu loyiha ochiq manbali. Istalgan maqsad uchun erkin foydalanishingiz mumkin.
+**📄 Litsenziya**
+Ushbu template ochiq manbali. Istalgan maqsad uchun erkin foydalanishingiz mumkin.
