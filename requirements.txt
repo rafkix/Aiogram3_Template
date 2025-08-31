@@ -1,2 +1,4 @@
-aiogram
+aiogram==3.21.0
+aiohttp==3.12.14
+python-dotenv==1.1.1
 environs
